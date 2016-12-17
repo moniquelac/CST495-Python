@@ -1,5 +1,6 @@
 # CST495
 Pokemon Search Engine Project
+
 By: Monique La Croix & Sonali Bharat
 
 
